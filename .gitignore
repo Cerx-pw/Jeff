@@ -1,0 +1,11 @@
+config/token.json
+config/bot_icon.png
+data/playerdata/discordAssociations.json
+node.exe
+npm
+npm.cmd
+.idea/
+node_modules
+config/conf.json
+data/playerdata/activity.json
+data/playerdata/
